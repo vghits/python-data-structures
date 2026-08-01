@@ -1,4 +1,4 @@
-# Python Lists & Matrices
+# Python-data-structures
 
 Proyecto académico desarrollado en Python durante la Tecnicatura Universitaria en Programación (UTN).
 
