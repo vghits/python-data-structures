@@ -21,7 +21,6 @@ El objetivo del proyecto fue aplicar conceptos fundamentales de programación me
 ## Tecnologías utilizadas
 
 - Python 3.13
-- Git
 - GitHub
 
 ## Estructura del proyecto
@@ -33,9 +32,9 @@ python-lists-and-matrices/
 ─ funciones.py
 ─ README.md
 ─ .gitignore
-- !CapturaEjecutando(MenuDeOpciones.png)
-```
 
+```
+- !CapturaEjecutando(MenuDeOpciones.png)
 ## Cómo ejecutar
 
 ### Requisitos
