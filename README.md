@@ -34,7 +34,7 @@ python-lists-and-matrices/
 ─ .gitignore
 ```
 ## Capturas
-!CapturaEjecutando(MenuDeOpciones.png)
+![CapturaEjecutando](MenuDeOpciones.png)
 
 ## Cómo ejecutar
 
