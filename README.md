@@ -34,7 +34,7 @@ python-lists-and-matrices/
 ─ .gitignore
 ```
 ## Capturas
-- !CapturaEjecutando("C:\Users\usuario\OneDrive\Imágenes\Screenshots\MenuDeOpciones.png")
+- !CapturaEjecutando(MenuDeOpciones.png)
 
 ## Cómo ejecutar
 
