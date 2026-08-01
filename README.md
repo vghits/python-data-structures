@@ -29,10 +29,11 @@ El objetivo del proyecto fue aplicar conceptos fundamentales de programación me
 ```text
 python-lists-and-matrices/
 
-├── examen.py
-├── funciones.py
-├── README.md
-└── .gitignore
+─ examen.py
+─ funciones.py
+─ README.md
+─ .gitignore
+- !CapturaEjecutando(MenuDeOpciones.png)
 ```
 
 ## Cómo ejecutar
