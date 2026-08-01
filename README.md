@@ -32,9 +32,10 @@ python-lists-and-matrices/
 ─ funciones.py
 ─ README.md
 ─ .gitignore
-
 ```
+## Capturas
 - !CapturaEjecutando(MenuDeOpciones.png)
+
 ## Cómo ejecutar
 
 ### Requisitos
